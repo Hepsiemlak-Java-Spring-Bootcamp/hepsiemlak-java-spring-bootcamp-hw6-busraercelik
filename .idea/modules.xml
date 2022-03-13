@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/EmlakBurada/EmlakBurada.iml" filepath="$PROJECT_DIR$/EmlakBurada/EmlakBurada.iml" />
+      <module fileurl="file://$PROJECT_DIR$/EmlakBurada-Auth/EmlakBurada-Auth.iml" filepath="$PROJECT_DIR$/EmlakBurada-Auth/EmlakBurada-Auth.iml" />
+      <module fileurl="file://$PROJECT_DIR$/EmlakBurada-Banner/EmlakBurada-Banner.iml" filepath="$PROJECT_DIR$/EmlakBurada-Banner/EmlakBurada-Banner.iml" />
+      <module fileurl="file://$PROJECT_DIR$/EmlakBurada-Email/EmlakBurada-Email.iml" filepath="$PROJECT_DIR$/EmlakBurada-Email/EmlakBurada-Email.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/hepsiemlak-java-spring-bootcamp-hw6-busraercelik.iml" filepath="$PROJECT_DIR$/.idea/hepsiemlak-java-spring-bootcamp-hw6-busraercelik.iml" />
+    </modules>
+  </component>
+</project>

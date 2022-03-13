@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="EmlakBurada-Auth" />
+        <module name="EmlakBurada-Banner" />
+        <module name="EmlakBurada-Email" />
+        <module name="EmlakBurada" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="EmlakBurada" target="11" />
+      <module name="EmlakBurada-Auth" target="11" />
+      <module name="EmlakBurada-Banner" target="11" />
+      <module name="EmlakBurada-Email" target="11" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="EmlakBurada" options="-parameters" />
+      <module name="EmlakBurada-Auth" options="-parameters" />
+      <module name="EmlakBurada-Banner" options="-parameters" />
+      <module name="EmlakBurada-Email" options="-parameters" />
+    </option>
+  </component>
+</project>
